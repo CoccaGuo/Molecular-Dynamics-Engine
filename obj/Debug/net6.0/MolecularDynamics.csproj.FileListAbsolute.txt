@@ -1,0 +1,15 @@
+D:\caress\class-wise\other\计算物理\MolecularDynamics\bin\Debug\net6.0\MolecularDynamics.exe
+D:\caress\class-wise\other\计算物理\MolecularDynamics\bin\Debug\net6.0\MolecularDynamics.deps.json
+D:\caress\class-wise\other\计算物理\MolecularDynamics\bin\Debug\net6.0\MolecularDynamics.runtimeconfig.json
+D:\caress\class-wise\other\计算物理\MolecularDynamics\bin\Debug\net6.0\MolecularDynamics.dll
+D:\caress\class-wise\other\计算物理\MolecularDynamics\bin\Debug\net6.0\MolecularDynamics.pdb
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.csproj.AssemblyReference.cache
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.GeneratedMSBuildEditorConfig.editorconfig
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.AssemblyInfoInputs.cache
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.AssemblyInfo.cs
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.csproj.CoreCompileInputs.cache
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.dll
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\refint\MolecularDynamics.dll
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.pdb
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\MolecularDynamics.genruntimeconfig.cache
+D:\caress\class-wise\other\计算物理\MolecularDynamics\obj\Debug\net6.0\ref\MolecularDynamics.dll
